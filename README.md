@@ -1,2 +1,2 @@
-# joguinho-space-shooter
-Recriação de joguinho de naves.
+# Jogo Bang-bang no espaço 👾
+Recriação de joguinho de naves
